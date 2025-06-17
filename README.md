@@ -1,5 +1,11 @@
 # SQL Bookstore Database Project
 
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-19c+-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Integration-000000?style=for-the-badge&logo=json&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-Optimized-00D084?style=for-the-badge&logo=speedtest&logoColor=white)
+
 ## A Real-World E-commerce Database System
 
 This project started as a class assignment for Bus4112, but I ended up going way beyond the requirements because I genuinely enjoy working with databases. What began as a simple bookstore schema evolved into a comprehensive e-commerce system that demonstrates the kind of SQL work I'd actually want to do in a production environment.
@@ -233,5 +239,3 @@ For Oracle, just copy the oracle_*.sql files into Oracle Live SQL and run them i
 I built this project because I wanted to show I can do more than just basic CRUD operations. In real database work, you're solving business problems, optimizing performance, and building systems that can scale. This project demonstrates that I think about databases the way they're actually used in production environments.
 
 Whether you're looking at this for academic purposes or evaluating technical skills, I hope it shows that I understand both the technical and business sides of database development.
-
-
