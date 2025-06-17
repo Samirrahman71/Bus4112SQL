@@ -134,6 +134,70 @@ This project taught me that good database work isn't just about writing syntacti
 4. **Thinking about data integrity** and what could go wrong
 5. **Building analytics that actually help make decisions**
 
+## Modern Features & Advanced SQL
+
+Beyond the basics, I added some really cool modern database features that showcase advanced SQL skills:
+
+ 
+
+### 🔥 **JSON Integration**
+
+ 
+
+- Added flexible JSON metadata fields to books
+- Store dynamic attributes like genres, awards, themes, reading levels
+- Query JSON data with native SQL functions
+- Perfect for modern applications that need schema flexibility
+
+ 
+
+### 🔍 **Full-Text Search**
+
+ 
+
+- Implemented advanced search capabilities
+- Search across titles, descriptions, and author biographies
+- Relevance scoring and natural language queries
+- Much better than basic LIKE queries
+
+ 
+
+### 📊 **Real-Time Analytics Dashboard**
+
+ 
+
+- Live KPI queries (daily sales, top performers, inventory alerts)
+- Customer activity heatmaps by hour
+- Sales velocity analysis
+- Customer lifetime value predictions
+- All optimized for sub-second performance
+
+ 
+
+### 🎯 **Advanced Window Functions**
+
+ 
+
+- Running totals and moving averages
+- Customer ranking and quartile analysis
+- Day-over-day sales comparisons
+- Pivot tables for cross-tabulation
+
+ 
+
+### ✅ **Data Quality Validation**
+
+ 
+
+- Automated data integrity checks
+- Email format validation with regex
+- Orphaned record detection
+- Performance monitoring queries
+
+ 
+
+These features demonstrate real-world database skills that go way beyond basic CRUD operations—the kind of stuff you'd actually build in a production environment.
+
 ## Technical Details
 
 **Database Systems**: MySQL 8.0+ and Oracle 19c+
