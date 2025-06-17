@@ -2,7 +2,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-19c+-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-Integration-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance-Optimized-00D084?style=for-the-badge&logo=speedtest&logoColor=white)
 
