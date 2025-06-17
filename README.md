@@ -170,9 +170,4 @@ I built this project because I wanted to show I can do more than just basic CRUD
 
 Whether you're looking at this for academic purposes or evaluating technical skills, I hope it shows that I understand both the technical and business sides of database development.
 
-## Contact
 
-Feel free to reach out if you have questions about any of the implementation details or want to discuss database design patterns.
-
-**Samir Rahman**  
-[LinkedIn](https://www.linkedin.com/in/samirrahman71/) | [GitHub](https://github.com/Samirrahman71)
